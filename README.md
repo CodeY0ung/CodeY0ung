@@ -3,7 +3,8 @@
 - 동아대학교 컴퓨터 공학부 재학중 (2023.03 ~)
 - 농장스 백엔드 개발자(2024.02~)
 
-  <div align=center><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white">
+  <div align=center><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2F0l0n0u0_00%3Figsh%3DMXR3ZjhlcG82MXB6aA%253D%253D%26utm_source%3Dqr">
+
 </div>
 
 <!---
