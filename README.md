@@ -4,7 +4,7 @@
 ## WooYoungLee
 - 동아대학교 컴퓨터 공학부 재학중 (2023.03 ~)
 - 농장스 백엔드 개발자(2024.02~)
-조금 늦게 개발을 시작한 풀스택을 목표로 하고 있는 개발자 입니다.^^
+- 조금 늦게 개발을 시작한 풀스택을 목표로 하고 있는 개발자 입니다.^^
 
 ## Stack
 <img alt="Static Badge" src="https://img.shields.io/badge/C-green?style=for-the-badge&logo=C&logoColor=blue&color=white"><img alt="Static Badge" src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&color=blue"><img alt="Static Badge" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white&color=green">
