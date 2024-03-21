@@ -1,6 +1,7 @@
-<div align=center><img alt="Static Badge" src="https://img.shields.io/badge/%EB%A0%88%EC%A0%84%EB%93%9C%20%EC%9A%A9%EB%9D%A0%2000-green?style=for-the-badge&logo=dungeonsanddragons&logoColor=white&color=black">
-</div>
+<h1><div align=center><img alt="Static Badge" src="https://img.shields.io/badge/%EB%A0%88%EC%A0%84%EB%93%9C%20%EC%9A%A9%EB%9D%A0%2000-green?style=for-the-badge&logo=dungeonsanddragons&logoColor=white&color=black">
+</div></h1>
 
+## WooYoungLee
 - 동아대학교 컴퓨터 공학부 재학중 (2023.03 ~)
 - 농장스 백엔드 개발자(2024.02~)
 
