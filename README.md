@@ -7,11 +7,7 @@
 조금 늦게 개발을 시작한 풀스택을 목표로 하고 있는 개발자 입니다.^^
 
 ## Stack
-<img alt="Static Badge" src="https://img.shields.io/badge/C-green?style=for-the-badge&logo=C&logoColor=blue&color=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&color=blue">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white&color=green">
+<img alt="Static Badge" src="https://img.shields.io/badge/C-green?style=for-the-badge&logo=C&logoColor=blue&color=white"><img alt="Static Badge" src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&color=blue"><img alt="Static Badge" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white&color=green">
 
   <div align=center><a href="https://www.instagram.com/0l0n0u0_00?igsh=MXR3ZjhlcG82MXB6aA%3D%3D&utm_source=qr"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2F0l0n0u0_00%3Figsh%3DMXR3ZjhlcG82MXB6aA%253D%253D%26utm_source%3Dqr">
 </a>
