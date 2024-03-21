@@ -3,7 +3,7 @@
 - 동아대학교 컴퓨터 공학부 재학중 (2023.03 ~)
 - 농장스 백엔드 개발자(2024.02~)
 
-- ![Static Badge](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&link=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FInstagram-pink%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite))
+  <div align=center>![Static Badge](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&link=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FInstagram-pink%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite))</div>
 
 <!---
 CodeY0ung/CodeY0ung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
