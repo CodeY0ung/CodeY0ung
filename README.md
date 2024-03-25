@@ -9,7 +9,7 @@
 ## Main Tech
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-green?style=for-the-badge&logo=OpenJdk&logoColor=blue&color=orange"><img alt="Static Badge" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white&color=green">
 
-## Stack
+## Tech Stack
 <img alt="Static Badge" src="https://img.shields.io/badge/C-green?style=for-the-badge&logo=C&logoColor=blue&color=white"><img alt="Static Badge" src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-green?style=for-the-badge&logo=OpenJdk&logoColor=blue&color=orange"><img alt="Static Badge" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white&color=green">
 
