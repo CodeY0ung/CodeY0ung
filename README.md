@@ -2,9 +2,11 @@
 </div></h1>
 
 ## WooYoungLee
+- 조금 늦게 개발을 시작한 풀스택을 목표로 하고 있는 개발자 입니다.^^
 - 동아대학교 컴퓨터 공학부 재학중 (2023.03 ~)
 - 농장스 백엔드 개발자(2024.02~)
-- 조금 늦게 개발을 시작한 풀스택을 목표로 하고 있는 개발자 입니다.^^
+- 농장스 1회용 주문 폼 개발(2024.03~)
+- 농장스 웹사이트 개발(2024.04~)
 
 ## Main Tech
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-green?style=for-the-badge&logo=OpenJdk&logoColor=blue&color=orange"><img alt="Static Badge" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white&color=green">
