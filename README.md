@@ -1,5 +1,3 @@
-<h1><div align=center><img alt="Static Badge" src="https://img.shields.io/badge/%EB%A0%88%EC%A0%84%EB%93%9C%20%EC%9A%A9%EB%9D%A0%2000-green?style=for-the-badge&logo=dungeonsanddragons&logoColor=white&color=black">
-</div></h1>
 
 ## Main Tech
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-green?style=for-the-badge&logo=OpenJdk&logoColor=blue&color=orange"><img alt="Static Badge" src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white&color=green">
